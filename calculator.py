@@ -4,7 +4,7 @@ print(" ________________UNIF CALCULATOR÷_______________v1.0")
 print("")
 print("")
 print("<××××××××××××××××××××××××××××××××××××××××××××××>")
-print("              Created by SPY ")
+print("              Created by H4CK6R 5PY ")
 print("<××××××××××××××××××××××××××××××××××××××××××××××>")
 print("")
 print("")
@@ -55,7 +55,7 @@ if ch==5:
 	print("v1.0")
 
 	print("")
-	print("                    Created by SPY")
+	print("                    Created by H4CK6R 5PY")
 	
 	print("")
 	print("<=======================================================>")
